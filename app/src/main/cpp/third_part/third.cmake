@@ -1,0 +1,1 @@
+set(FFMPEG_LIBRARY avcodec avdevice avfilter avformat avutil swresample swscale)

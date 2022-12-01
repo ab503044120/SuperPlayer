@@ -1,0 +1,3 @@
+rootProject.name = "SuperPlayer"
+include ':app'
+include ':hwffmpeg'
